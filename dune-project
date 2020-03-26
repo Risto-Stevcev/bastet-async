@@ -16,7 +16,7 @@
   ("category theory" "abstract algebra" "algebra" "cats" "async"))
  (depends
   (ocaml (>= 4.06.1))
-  (bastet (>= 1.2.4))
+  (bastet (>= 1.2.5))
   (async_kernel (>= v0.12.0))
   (async_unix (and (>= v0.12.0) :with-test))
   (core (and (>= v0.12.0) :with-test))
