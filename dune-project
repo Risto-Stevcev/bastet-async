@@ -1,4 +1,4 @@
-(lang dune 2.4.0)
+(lang dune 2.4)
 (name bastet_async)
 (source (github Risto-Stevcev/bastet-async))
 (license BSD-3-Clause)
